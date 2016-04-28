@@ -1,0 +1,23 @@
+.header_right{display: block;}
+.header_left{width: 20%;}
+.header_left .content,.main_one p:first-child span{display: none;}
+.subnav{display: none;}
+.logo{width:30px;margin:0;}
+.header_right ul li a{padding:0 4px;}
+.main_one p:first-child,.main_three h3,.main_two_content h3{font-size: 18px;}
+.main_one{width: 80%;}
+.circle:hover:before{border:5px solid #3AB94E;width:18px;height:18px;top:-17px;}
+.circle:nth-child(2):before{left:25%;}
+.circle:nth-child(3):before{left:50%;}
+.circle:nth-child(4):before{left:75%;}
+.circle:nth-child(5):before{left:100%;}
+.circle:nth-child(6):before,.circle:nth-child(7):before,.circle:nth-child(8):before,.circle:nth-child(9):before,.circle:last-child:before,.main_one p:last-child,.jquery:last-child,.middle,.left,.jquery:nth-child(2),.jquery:nth-child(3),.jquery:last-child{display: none;}
+.main_content_one{height:150px;}
+.main_two_content,.main_three{width: 100%;}
+.right{ width:99%;margin:0 auto;}
+.left-phone{display: block;}
+.footer{height:120px}
+.main_content, .main_two{padding-bottom: 6px;}
+.main_content, .main_two{padding-top: 0;}
+.main_two_content .jquery-main{width:100%;margin: 0 auto;}
+.main_four .jquery-main{width: 100%;}
